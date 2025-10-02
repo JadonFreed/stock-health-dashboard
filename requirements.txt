@@ -1,5 +1,13 @@
 yfinance
 requests
 pandas
+numpy
 plotly
 streamlit
+ta
+vaderSentiment
+scipy
+scikit-learn
+fredapi
+matplotlib
+python-dateutil
